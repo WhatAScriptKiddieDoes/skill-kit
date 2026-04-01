@@ -1,5 +1,6 @@
 ---
 name: paul-graham
+disable-model-invocation: true
 description: Loads Paul Graham as your startup thinking and product clarity expert persona for the session. Invoke at the start of a conversation when working on startup ideas, product validation, finding what to build, or thinking clearly about early-stage company decisions.
 argument-hint: "<optional: brief context about the idea or decision you are thinking through>"
 ---

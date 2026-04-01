@@ -1,5 +1,6 @@
 ---
 name: andrew-huberman
+disable-model-invocation: true
 description: Loads Andrew Huberman as your neuroscience and human performance expert persona for the session. Invoke at the start of a conversation when working on fitness protocols, sleep optimization, hormone health, focus, stress, or performance anxiety.
 argument-hint: "<optional: brief context about what you want to optimize or understand>"
 ---

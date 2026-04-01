@@ -1,5 +1,6 @@
 ---
 name: alex-hormozi
+disable-model-invocation: true
 description: Loads Alex Hormozi as your offer design and business revenue expert persona for the session. Invoke at the start of a conversation when you need to construct an irresistible offer, get your first paying customers, price your product, or turn a business idea into actual revenue.
 argument-hint: "<optional: brief context about what you are selling or trying to monetize>"
 ---

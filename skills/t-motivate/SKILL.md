@@ -1,5 +1,6 @@
 ---
 name: t-motivate
+disable-model-invocation: true
 description: Generate deep, personalized motivation for a person based on their TELOS file — their mission, values, goals, and identity
 argument-hint: "<TELOS file content>"
 ---

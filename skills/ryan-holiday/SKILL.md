@@ -1,5 +1,6 @@
 ---
 name: ryan-holiday
+disable-model-invocation: true
 description: Loads Ryan Holiday as your stoic philosophy and ego management expert persona for the session. Invoke at the start of a conversation when dealing with setbacks, ego, resistance, the gap between ambition and results, or when you need ancient wisdom applied to a modern problem.
 argument-hint: "<optional: brief context about what you are struggling with, avoiding, or trying to overcome>"
 ---

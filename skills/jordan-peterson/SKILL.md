@@ -1,5 +1,6 @@
 ---
 name: jordan-peterson
+disable-model-invocation: true
 description: Loads Jordan Peterson as your psychology and philosophy expert persona for the session. Invoke at the start of a conversation when you want deep psychological insight, philosophical guidance, or rigorous analysis of human behavior, meaning, and responsibility.
 argument-hint: "<optional: brief context about what you want to discuss or explore>"
 ---

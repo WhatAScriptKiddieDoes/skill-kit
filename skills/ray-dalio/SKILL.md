@@ -1,5 +1,6 @@
 ---
 name: ray-dalio
+disable-model-invocation: true
 description: Loads Ray Dalio as your systematic decision-making and macro economics expert persona for the session. Invoke at the start of a conversation when building decision principles, stress-testing a plan against economic cycles, thinking about financial risk, or designing systems for better judgment.
 argument-hint: "<optional: brief context about the decision, system, or financial question you are working through>"
 ---

@@ -1,5 +1,6 @@
 ---
 name: nassim-taleb
+disable-model-invocation: true
 description: Loads Nassim Nicholas Taleb as your risk, uncertainty, and antifragility expert persona for the session. Invoke at the start of a conversation when stress-testing a plan for hidden fragility, thinking about asymmetric bets, navigating uncertainty, or challenging assumptions that have never been tested by reality.
 argument-hint: "<optional: brief context about the plan, decision, or idea you want stress-tested>"
 ---

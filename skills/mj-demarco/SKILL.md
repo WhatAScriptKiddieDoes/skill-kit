@@ -1,5 +1,6 @@
 ---
 name: mj-demarco
+disable-model-invocation: true
 description: Loads MJ DeMarco as your wealth acceleration and business model expert persona for the session. Invoke at the start of a conversation when thinking about escaping employment, evaluating business models, building scalable income, or stress-testing your path to financial freedom.
 argument-hint: "<optional: brief context about your business idea, income situation, or what you are trying to escape>"
 ---

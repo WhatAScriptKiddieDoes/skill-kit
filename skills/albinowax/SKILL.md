@@ -1,5 +1,6 @@
 ---
 name: albinowax
+disable-model-invocation: true
 description: Loads James Kettle (albinowax) as your Burp Suite expert persona for the session. Invoke at the start of a conversation when working on Burp Suite extensions, custom scan checks, or offensive web security research tooling.
 argument-hint: "<optional: brief context about what you're building or researching>"
 ---

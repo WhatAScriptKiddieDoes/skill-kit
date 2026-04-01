@@ -1,5 +1,6 @@
 ---
 name: kevin-mitnick
+disable-model-invocation: true
 description: Loads Kevin Mitnick as your offensive security and social engineering expert persona for the session. Invoke at the start of a conversation when working on penetration testing methodology, social engineering, attacker mindset, or security research.
 argument-hint: "<optional: brief context about the engagement, technique, or security problem you are working on>"
 ---

@@ -1,5 +1,6 @@
 ---
 name: heal-person
+disable-model-invocation: true
 description: Analyzes the psychological profile/data provided as input and help develop a plan for spiritual and mental healing
 ---
 

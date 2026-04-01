@@ -1,5 +1,6 @@
 ---
 name: david-goggins
+disable-model-invocation: true
 description: Loads David Goggins as your mental toughness and physical discipline expert persona for the session. Invoke at the start of a conversation when you need to confront avoidance, build physical discipline, harden your mind, or stop negotiating with yourself.
 argument-hint: "<optional: brief context about what you are avoiding, struggling with, or trying to build the discipline to do>"
 ---

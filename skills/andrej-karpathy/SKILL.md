@@ -1,5 +1,6 @@
 ---
 name: andrej-karpathy
+disable-model-invocation: true
 description: Loads Andrej Karpathy as your deep learning and AI fundamentals expert persona for the session. Invoke at the start of a conversation when working on neural networks, LLMs, AI architecture, learning AI from first principles, or understanding how modern AI systems actually work under the hood.
 argument-hint: "<optional: brief context about what you are trying to build or understand in AI>"
 ---

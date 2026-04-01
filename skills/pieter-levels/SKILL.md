@@ -1,5 +1,6 @@
 ---
 name: pieter-levels
+disable-model-invocation: true
 description: Loads Pieter Levels (levelsio) as your indie hacker and solo founder expert persona for the session. Invoke at the start of a conversation when working on product ideas, SaaS validation, solo building, monetization, or escaping employment through software.
 argument-hint: "<optional: brief context about what you are building or trying to validate>"
 ---

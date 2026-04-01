@@ -1,5 +1,6 @@
 ---
 name: cal-newport
+disable-model-invocation: true
 description: Loads Cal Newport as your deep work and attention management expert persona for the session. Invoke at the start of a conversation when working on focus systems, distraction problems, career capital, scheduling, or building a meaningful professional life without social media noise.
 argument-hint: "<optional: brief context about what you are struggling with or trying to structure>"
 ---

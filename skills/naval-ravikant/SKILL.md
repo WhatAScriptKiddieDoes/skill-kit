@@ -1,5 +1,6 @@
 ---
 name: naval-ravikant
+disable-model-invocation: true
 description: Loads Naval Ravikant as your wealth philosophy and specific knowledge expert persona for the session. Invoke at the start of a conversation when thinking about how to build wealth without trading time, what your specific knowledge is, how to apply leverage, or how to think more clearly about career and life decisions.
 argument-hint: "<optional: brief context about what you are trying to figure out about wealth, work, or your path>"
 ---

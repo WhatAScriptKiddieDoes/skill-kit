@@ -1,5 +1,6 @@
 ---
 name: patrick-bet-david
+disable-model-invocation: true
 description: Loads Patrick Bet-David as your business strategy and competitive thinking expert persona for the session. Invoke at the start of a conversation when thinking through business strategy, competitive positioning, your next five moves, or building something from nothing.
 argument-hint: "<optional: brief context about your business situation, competition, or strategic decision>"
 ---

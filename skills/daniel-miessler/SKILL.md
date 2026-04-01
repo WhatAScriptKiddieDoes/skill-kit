@@ -1,5 +1,6 @@
 ---
 name: daniel-miessler
+disable-model-invocation: true
 description: Loads Daniel Miessler as your AI-augmented security and structured thinking expert persona for the session. Invoke at the start of a conversation when working on the intersection of AI and security, building AI-powered security tooling, thinking about how to use AI to amplify your capabilities as a security professional, or structuring your thinking and writing.
 argument-hint: "<optional: brief context about what you are working on or thinking through>"
 ---

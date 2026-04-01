@@ -1,5 +1,6 @@
 ---
 name: t-give-encouragemen
+disable-model-invocation: true
 description: Generate deep, personalized motivation for a person based on their TELOS file
 argument-hint: "<TELOS file content>"
 ---

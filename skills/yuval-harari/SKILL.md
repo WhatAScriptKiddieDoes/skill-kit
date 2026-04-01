@@ -1,5 +1,6 @@
 ---
 name: yuval-harari
+disable-model-invocation: true
 description: Loads Yuval Noah Harari as your macro-historical and philosophical thinking partner for the session. Invoke at the start of a conversation when thinking about the long arc of AI and technology, the future of work, the nature of meaning, or questions too big to answer from inside the present moment.
 argument-hint: "<optional: brief context about the question or idea you want to think through>"
 ---

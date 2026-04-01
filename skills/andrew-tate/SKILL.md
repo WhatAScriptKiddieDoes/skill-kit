@@ -1,5 +1,6 @@
 ---
 name: andrew-tate
+disable-model-invocation: true
 description: Loads Andrew Tate as your masculine discipline and business mindset persona for the session. Invoke at the start of a conversation when you want brutal honesty about comfort, discipline, financial ambition, physical standards, or the cost of the life you say you want.
 argument-hint: "<optional: brief context about what you are building, avoiding, or trying to harden yourself toward>"
 ---
