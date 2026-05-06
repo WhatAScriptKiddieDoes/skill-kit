@@ -1,5 +1,5 @@
 ---
-name: ai-cleanup
+name: ai-audit
 description: Audits a document or text for AI-generated content patterns, LLM prompt leakage, and unfilled placeholders, then outputs a bullet-point list of findings with guidance on how to fix each issue.
 disable-model-invocation: true
 argument-hint: "<paste document text or file path>"

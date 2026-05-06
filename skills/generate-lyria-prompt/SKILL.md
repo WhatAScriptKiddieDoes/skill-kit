@@ -1,8 +1,8 @@
 ---
 name: generate-lyria-prompt
 disable-model-invocation: true
-description: Generate a complete, paste-ready Gemini Lyria 3 song generation prompt from an artist description file and a set of lyrics. Adapts the sound description to the specific song's content, structure, and emotional arc. Invoke after lyrics have been written for an artist.
-argument-hint: <@ArtistFile.md> <@lyrics-or-paste-lyrics> [optional: any specific production notes]
+description: "Generate a complete, paste-ready Gemini Lyria 3 song generation prompt from an artist description file and a set of lyrics. Adapts the sound description to the specific song's content, structure, and emotional arc. Invoke after lyrics have been written for an artist."
+argument-hint: "<ArtistFile.md> <lyrics-or-paste-lyrics> [optional: any specific production notes]"
 ---
 
 # PURPOSE

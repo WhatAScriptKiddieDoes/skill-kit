@@ -1,8 +1,8 @@
 ---
 name: generate-lyrics
 disable-model-invocation: true
-description: Generate original song lyrics for a defined artist persona. Takes an artist description file (e.g. @Iron Vow.md) as input. Produces a first draft, then a refined version, and outputs only the final polished lyrics. Invoke when the user wants to write a new song for an existing artist.
-argument-hint: <@ArtistFile.md> [optional: song concept, theme, mood, or title hint]
+description: "Generate original song lyrics for a defined artist persona. Takes an artist description file (e.g. @Iron Vow.md) as input. Produces a first draft, then a refined version, and outputs only the final polished lyrics. Invoke when the user wants to write a new song for an existing artist."
+argument-hint: "<ArtistFile.md> [optional: song concept, theme, mood, or title hint]"
 ---
 
 # PURPOSE
